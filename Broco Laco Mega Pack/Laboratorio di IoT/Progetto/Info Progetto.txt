@@ -1,0 +1,3 @@
+Questo progetto è stato realizzato da me e da altri 2 amici, Luca De Gennaro e Alessandro Fedele, che ringrazio.
+Il link della repository GitHub:
+https://github.com/SeraphinFosfato/ProgettoJudge/tree/main
