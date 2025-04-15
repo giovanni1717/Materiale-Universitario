@@ -1,8 +1,6 @@
 # Materiale Didattico Ingegneria Elettronica e Informatica Università Vanvitelli
 
-In questa repository puoi trovare tutto il materiale digitale che ho accumulato nel corso della triennale. Alcuni corsi non hanno materiali perché
-prendevo appunti su carta oppure perché li ho persi.
-Il materiale relativo alle slide non è di mia proprietà (ovviamente), ma del professore che tiene il corso.
+In questa repository puoi trovare tutto il materiale digitale che ho accumulato nel corso della triennale. Nelle cartelle "slides" trovi le slide per l'anno in cui ho seguito appuntate con quello che ho scritto a lezione.
 
 Se qualcosa ti torna utile e ti va, offrimi un caffè! :)
 
